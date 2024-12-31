@@ -1,0 +1,7 @@
+.table-wrapper {
+	display: flex;
+	gap: 20;
+	align-items: flex-start;
+	justify-content: center;
+	min-width: 900px;
+}
