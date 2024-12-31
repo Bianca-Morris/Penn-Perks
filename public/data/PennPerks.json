@@ -1,0 +1,389 @@
+[
+	{
+		"Organization": "Adobe Creative Cloud",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "Requires the creation of an Adobe ID",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "Annenberg Center for the Performance Arts",
+		"Perk Type": "Discount",
+		"Website": "https://pennlivearts.org/engage/pennstudents.php",
+		"Tags": ["Performance Venue"],
+		"Notes": "Must Present Penn ID",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Live Arts"
+	},
+	{
+		"Organization": "Apple",
+		"Perk Type": "Discount",
+		"Website": "https://www.apple.com/us-hed/shop",
+		"Tags": ["Computers", "Hardware"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Campus Express"
+	},
+	{
+		"Organization": "ArcGIS Pro",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "Autodesk Maya",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "Autodesk MotionBuilder",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "Autodesk Mudbox",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "BigInterview",
+		"Perk Type": "Free",
+		"Website": "https://upenn.biginterview.com",
+		"Tags": ["Interview Practice"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Career Services"
+	},
+	{
+		"Organization": "Bloomberg",
+		"Perk Type": "Free",
+		"Website": "http://hdl.library.upenn.edu/1017/126623",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Browzine",
+		"Perk Type": "Free",
+		"Website": "https://www.library.upenn.edu/software-and-tools/browzine",
+		"Tags": ["Academic Journals"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Dell",
+		"Perk Type": "Discount",
+		"Website": "https://www.dell.com/upenn",
+		"Tags": ["Computers", "Hardware"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Campus Express"
+	},
+	{
+		"Organization": "DHL",
+		"Perk Type": "Discount",
+		"Website": "https://expressmail.apps.upenn.edu/expressMail/jsp/fast2.do",
+		"Tags": ["Shipping"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Mail Services"
+	},
+	{
+		"Organization": "EndNote",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Research Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "Exponent",
+		"Perk Type": "Free",
+		"Website": "https://www.tryexponent.com/upenn",
+		"Tags": ["Interview Practice"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Career Services"
+	},
+	{
+		"Organization": "EZproxy Bookmarklet",
+		"Perk Type": "Free",
+		"Website": "https://www.library.upenn.edu/software-and-tools/ezproxy",
+		"Tags": ["Research Software", "Academic Journals"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Fedex",
+		"Perk Type": "Discount",
+		"Website": "https://expressmail.apps.upenn.edu/expressMail/jsp/fast2.do",
+		"Tags": ["Shipping"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Mail Services"
+	},
+	{
+		"Organization": "Financial Times",
+		"Perk Type": "Free",
+		"Website": "http://pwp.library.upenn.edu.proxy.library.upenn.edu/loggedin/pwp/pw-ft.html",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "GraphPad Prism",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/rdp-lab",
+		"Tags": ["Data Science Software", "Research Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Remote Desktop Lab"
+	},
+	{
+		"Organization": "IBM SPSS Statistics",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "Institute for Contemporary Art (ICA)",
+		"Perk Type": "Free",
+		"Website": "https://www.icaphila.org",
+		"Tags": ["Museum"],
+		"Notes": "Must present Penn ID",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "PennCard"
+	},
+	{
+		"Organization": "JMP Pro",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "Le Monde",
+		"Perk Type": "Free",
+		"Website": "http://hdl.library.upenn.edu/1017/126884",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Lean Library Access App",
+		"Perk Type": "Free",
+		"Website": "https://guides.library.upenn.edu/usingresources/leanlibraryaccess",
+		"Tags": ["Academic Journals", "Books", "Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Lenovo",
+		"Perk Type": "Discount",
+		"Website": "https://www3.lenovo.com/le/1215761813/us",
+		"Tags": ["Computers", "Hardware"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Campus Express"
+	},
+	{
+		"Organization": "LibKey Nomad",
+		"Perk Type": "Free",
+		"Website": "https://guides.library.upenn.edu/usingresources/leanlibraryaccess",
+		"Tags": ["Academic Journals"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Maple",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Mathematics Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "Microsoft Office 365",
+		"Perk Type": "Free",
+		"Website": "https://isc.upenn.edu/how-to/penno365-office-365-pro-plus#getting-started",
+		"Tags": ["Productivity Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Campus Express"
+	},
+	{
+		"Organization": "Morris Arboretum",
+		"Perk Type": "Free",
+		"Website": "https://www.morrisarboretum.org",
+		"Tags": ["Museum"],
+		"Notes": "Must present Penn ID",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "PennCard"
+	},
+	{
+		"Organization": "New York Times",
+		"Perk Type": "Free",
+		"Website": "http://hdl.library.upenn.edu/1017/126342",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "NVivo",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "OBS Studio",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "Penn Museum",
+		"Perk Type": "Free",
+		"Website": "https://www.penn.museum",
+		"Tags": ["Museum"],
+		"Notes": "Must present Penn ID",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "PennCard"
+	},
+	{
+		"Organization": "PeopleGrove",
+		"Perk Type": "Free",
+		"Website": "https://upennseas.peoplegrove.com/auth/sign-in?postLoginRedirect=/hub/university-penn/home-v3",
+		"Tags": ["Networking"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Career Services"
+	},
+	{
+		"Organization": "Pottruck Center",
+		"Perk Type": "Guest Pass",
+		"Website": "https://recreation.upenn.edu/sports/2022/2/28/guest-passes",
+		"Tags": ["Fitness"],
+		"Notes": "Must present Penn ID",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "PennCard"
+	},
+	{
+		"Organization": "R Studio",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "SOLIDWORKS",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Creative Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "Stata",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://guides.library.upenn.edu/vlab",
+		"Tags": ["Data Science Software"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Libraries Virtual Computer Lab"
+	},
+	{
+		"Organization": "The Atlantic",
+		"Perk Type": "Free",
+		"Website": "http://hdl.library.upenn.edu/1017/126830",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "UPS",
+		"Perk Type": "Discount",
+		"Website": "https://expressmail.apps.upenn.edu/expressMail/jsp/fast2.do",
+		"Tags": ["Shipping"],
+		"Notes": "",
+		"Verified for Online MCIT": "unverified",
+		"Offered Through": "Penn Mail Services"
+	},
+	{
+		"Organization": "Wall Street Journal",
+		"Perk Type": "Free",
+		"Website": "http://pwp.library.upenn.edu.proxy.library.upenn.edu/loggedin/pwp/pw-wsj.html",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Washington Post",
+		"Perk Type": "Free",
+		"Website": "http://hdl.library.upenn.edu/1017/126224",
+		"Tags": ["Newspapers"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Libraries"
+	},
+	{
+		"Organization": "Wolfram Mathematica",
+		"Perk Type": "Free (Virtual Access)",
+		"Website": "https://cets.seas.upenn.edu/answers/virtuallab.html",
+		"Tags": ["Data Science Software", "Mathematics Software"],
+		"Notes": "Requires the creation of a Wolfram ID",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "Penn Engineering Virtual Lab"
+	},
+	{
+		"Organization": "WXPN",
+		"Perk Type": "Free",
+		"Website": "https://xpn.org",
+		"Tags": ["Radio Station"],
+		"Notes": "",
+		"Verified for Online MCIT": "verified",
+		"Offered Through": "WXPN Radio"
+	}
+]
