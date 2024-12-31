@@ -1,0 +1,20 @@
+nav.nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: var(--light-grey);
+	width: 100vw;
+	height: 53px;
+	border: 1px solid var(--light-grey2);
+}
+
+nav.nav > .link-container {
+	display: flex;
+	align-items: flex-start;
+	width: 900px;
+}
+
+nav.nav > .link-container > a.link {
+	font-family: Roboto, Helvetica, sans-serif;
+	font-weight: 500;
+}

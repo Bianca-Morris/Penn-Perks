@@ -1,0 +1,25 @@
+.header {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	height: 134px;
+	color: var(--penn-blue);
+}
+
+.header-title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10;
+}
+
+.header > .header-title > h1 {
+	font-size: 32px;
+	line-height: 1.7;
+}
+
+.header > .header-subtitle > h2 {
+	font-size: 20px;
+	text-align: center;
+}
