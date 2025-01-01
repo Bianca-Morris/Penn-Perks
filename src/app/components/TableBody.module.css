@@ -10,4 +10,5 @@
 	justify-content: flex-start;
 	overflow-y: scroll;
 	max-height: 635px;
+	height: 100%;
 }

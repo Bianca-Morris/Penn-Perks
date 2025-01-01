@@ -1,5 +1,6 @@
 import { Funnel } from "@phosphor-icons/react";
 
+import TableFilter from "./TableFilter";
 import styles from "./TableFilters.module.css";
 
 export default function TableFilters(props) {
@@ -13,11 +14,36 @@ export default function TableFilters(props) {
 				</div>
 				<div>(clear)</div>
 			</div>
-			<div>
-				<div>Product Type</div>
-				<div>
-					<div>{/* <input  */}</div>
-				</div>
+			<div className={styles["table-filters-body"]}>
+				{FILTER_FIELDS.map((field) => (
+					<div
+						key={field}
+						className={styles["table-filters-body-category"]}
+					>
+						<div
+							className={
+								styles["table-filters-body-category-title"]
+							}
+						>
+							{field}
+						</div>
+						<div>
+							{filterCategories[field] &&
+								filterCategories[field].size > 0 &&
+								Array.from(filterCategories[field]?.values())
+									.sort()
+									.map((filter) => (
+										<TableFilter
+											key={filter}
+											label={filter}
+											isSelected={filters[field].has(
+												filter
+											)}
+										/>
+									))}
+						</div>
+					</div>
+				))}
 			</div>
 		</div>
 	);

@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import styles from "./DataWrapper.module.css";
 import TableBody from "./TableBody";
 import TableSidebar from "./TableSidebar";
+import { deepCopyObjectWithSets } from "@/utils";
 
 const FILTER_FIELDS = ["Perk Type", "Tags"];
 
@@ -33,11 +34,11 @@ export default function DataWrapper(props) {
 		});
 
 		// This empty structure should be what we need for initializing filters
-		setFilters(categories);
-		// setFilters({
-		// 	Tags: new Set(["Newspapers"]),
-		// 	"Perk Type": new Set(["Free"]),
-		// });
+		// setFilters(deepCopyObjectWithSets(categories)); //need to deep clone this
+		setFilters({
+			Tags: new Set(["Newspapers"]),
+			"Perk Type": new Set(["Free"]),
+		});
 
 		// Calculate filterCategories based on data
 		data.forEach((datum) => {

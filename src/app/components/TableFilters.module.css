@@ -14,3 +14,20 @@
 	font-size: 18px;
 	font-weight: 500;
 }
+
+.table-filters-body {
+	margin-top: 5px;
+	display: flex;
+	gap: 10;
+	flex-direction: column;
+}
+
+.table-filters-body-category {
+	display: flex;
+	flex-direction: column;
+	gap: 2;
+}
+
+.table-filters-body-category-title {
+	font-weight: 500;
+}
