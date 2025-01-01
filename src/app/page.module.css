@@ -1,10 +1,14 @@
 .page {
-	min-height: 1000px;
 	display: flex;
 	flex-direction: column;
+	flex: 1 0 0px;
 }
 
 .main {
+	padding: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	flex: 1;
 	background-image: radial-gradient(
 			circle at -37% -38%,

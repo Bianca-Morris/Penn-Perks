@@ -1,0 +1,16 @@
+.table-filters-container {
+	color: var(--penn-blue);
+	width: 100%;
+}
+
+.table-filters-container-header {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.table-filters-container-header-left {
+	font-size: 18px;
+	font-weight: 500;
+}

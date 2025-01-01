@@ -1,7 +1,11 @@
 .table-wrapper {
 	display: flex;
 	gap: 20;
-	align-items: flex-start;
+	align-content: center;
+	width: 900px;
+	align-items: center;
 	justify-content: center;
 	min-width: 900px;
+	height: 635px;
+	font-family: Roboto, Helvetica, sans-serif;
 }

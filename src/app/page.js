@@ -17,7 +17,7 @@ export default function Home() {
 			<Header />
 			<Nav className={RobotoFont.className} />
 			<main className={styles.main}>
-				<DataWrapper />
+				<DataWrapper className={RobotoFont.className} />
 			</main>
 		</div>
 	);

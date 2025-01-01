@@ -1,0 +1,13 @@
+.table-body-container {
+	align-content: center;
+	align-items: center;
+	background-color: var(--background);
+	border-radius: 25px;
+	box-shadow: 0 1px 5px #0000001f;
+	display: flex;
+	flex: 1 0 0px;
+	flex-direction: column;
+	justify-content: flex-start;
+	overflow-y: scroll;
+	max-height: 635px;
+}
